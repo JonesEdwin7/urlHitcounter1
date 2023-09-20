@@ -10,4 +10,6 @@ public class urllinkhitcounter {
 		SpringApplication.run(urllinkhitcounter.class, args);
 	}
 
+	System.out.println("Assignment done");
+
 }
